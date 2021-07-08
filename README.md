@@ -1,7 +1,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/evaldovisk/evaldovisk/main/image/minhastecnologias.png" width="350"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/evaldo-fonseca-da-silva-a75a911ab/">
 <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-Evaldo%20Fonseca-blue"/>
