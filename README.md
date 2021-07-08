@@ -1,19 +1,20 @@
-### Hi there 👋
 
 <img align="right" src="https://raw.githubusercontent.com/evaldovisk/evaldovisk/main/image/minhastecnologias.png" width="350"/>
 
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/evaldo-fonseca-da-silva-a75a911ab/">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Evaldo%20Fonseca-blue"/>
+<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-Evaldo%20Fonseca-blue"/>
 </a>
 
 <a href="mailto:evaldo.fsilva2009@gmail.com">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+<img align="center" alt="E-mail" src="https://img.shields.io/badge/-Pode%20me%20encontrar%20clicando%20aqui-red"/>
 </a>
 
 <br/>
 
-### Hey! Welcome to my profile! How is it going? 👋🥰
+### Olá! Bem vindo ao meu perfil! 👋🥰
 
-- 🚀I'm currently looking for knowledge
+- 🚀 Atualmente estou em busca de conhecimento.
 - 💻 Python, Java, JavaScript
-- ✨ The joy of thinking and learning makes us think a
+- ✨ The joy of thinking and learning makes us think a.
