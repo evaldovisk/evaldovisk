@@ -16,5 +16,5 @@
 ### Olá! Bem vindo ao meu perfil! 👋🥰
 
 - 🚀 Atualmente estou em busca de conhecimento.
-- 💻 Python e JavaScript
+- 💻 Java e Python
 - ✨ The joy of thinking and learning makes us think a.
